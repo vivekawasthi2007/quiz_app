@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Centering */
+.center-box {
+    height: 100vh;              /* full screen height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    /* vertical center */
+    align-items: center;        /* horizontal center */
+    text-align: center;
+}
